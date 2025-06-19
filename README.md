@@ -32,8 +32,10 @@ JWT_SECRET="your_jwt_secret"
 JWT_EXPIRES_IN="24h"
 
 ---
-### Install dependencies
+### Setting up and Installing dependencies
 ```
+git clone https://github.com/ramshaanadeem/reverse-proxy-server.git
+cd reverse-proxy-server
 npm install
 ```
 
